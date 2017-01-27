@@ -5,7 +5,7 @@ This is just a way to keep track of ideas (hacks, etc...)
 
 Possible Qs to answer: Aircraft age, flight phase, Damage Category, Location, Location normalized. 
 
-* MacBook Air's trackpad sensitivity transfer function model 
+* MacBook Air's trackpad sensitivity transfer function
 
 This would involve measuring the response of the trackpad to different user inputs (speed, especially). In the end, one would know the transfer function of the trackpad (transfer function means how the device maps user inputs to the pointer on the screen).
 
