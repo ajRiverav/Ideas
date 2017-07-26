@@ -14,4 +14,5 @@ This would involve measuring the response of the trackpad to different user inpu
 Intercoms, upon choosing a unit number, call the unit's phone number which sometimes can be heard on the speaker. If one records that sound, the number can be reverse-engineered using an FFTs vs. time plot (spectrogram). 
 
 * La Liga (Spanish Soccer League) 
+
 An analysis of team salaries vs. accomplishments as measured by their ranking, games won, cups won, etc...
